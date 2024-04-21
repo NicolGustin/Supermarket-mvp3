@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 
-namespace Supermarket_mvp.Models
+namespace Supermarket_mvp3.Models
 {
     internal class PayModeModel
     {

@@ -6,7 +6,7 @@ using System.Configuration;
 using Supermarket_mvp3.Presenters;
 
 
-namespace Supermarket_mvp3;
+namespace Supermarket_mvp3
 {
     internal static class Program
     {
@@ -24,9 +24,6 @@ namespace Supermarket_mvp3;
             new MainPresenter(view, sqlConnectionString);
 
             Application.Run((Form)view);
-
-
-
         }
     }
 }
