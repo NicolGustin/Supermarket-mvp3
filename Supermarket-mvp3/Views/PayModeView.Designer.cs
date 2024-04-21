@@ -1,4 +1,4 @@
-﻿namespace Supermarket_mvp.Views
+﻿namespace Supermarket_mvp3.Views
 {
     partial class PayModeView
     {
