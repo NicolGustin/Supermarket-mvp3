@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Supermarket_mvp3.Models
 {
-    internal class IProvidersRepository
+    internal interface IProvidersRepository
     {
         void Add(ProvidersModel providersModel);
         void Edit(ProvidersModel providersModel);
