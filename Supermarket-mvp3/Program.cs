@@ -1,9 +1,9 @@
-using Supermarket_mvp._Repositories;
-using Supermarket_mvp.Models;
-using Supermarket_mvp.Views;
-using Supermarket_mvp.Properties;
+using Supermarket_mvp3._Repositories;
+using Supermarket_mvp3.Models;
+using Supermarket_mvp3.Views;
+using Supermarket_mvp3.Properties;
 using System.Configuration;
-using Supermarket_mvp.Presenters;
+using Supermarket_mvp3.Presenters;
 
 
 namespace Supermarket_mvp3;

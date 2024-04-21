@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Supermarket_mvp.Views
+namespace Supermarket_mvp3.Views
 {
     public partial class PayModeView : Form, IPayModeView
     {

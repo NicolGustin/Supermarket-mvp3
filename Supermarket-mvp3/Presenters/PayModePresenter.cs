@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Supermarket_mvp.Models;
-using Supermarket_mvp.Views;
+using Supermarket_mvp3.Models;
+using Supermarket_mvp3.Views;
 
-namespace Supermarket_mvp.Presenters
+namespace Supermarket_mvp3.Presenters
 {
     internal class PayModePresenter
     {
