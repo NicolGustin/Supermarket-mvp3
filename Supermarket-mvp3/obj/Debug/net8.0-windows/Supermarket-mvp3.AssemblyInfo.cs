@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Supermarket-mvp3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d76ce344c6057d4dcf4bff3cbd01f6909139671")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7a7624726ff133a04ddb4c3b5d43e329d0afa5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Supermarket-mvp3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Supermarket-mvp3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

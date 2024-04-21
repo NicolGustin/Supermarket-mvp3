@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|c:\\users\\nicol\\desktop\\c#\\supermarket-mvp3\\supermarket-mvp3\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|c:\\users\\nicol\\desktop\\c#\\supermarket-mvp3\\supermarket-mvp3\\views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|c:\\users\\nicol\\desktop\\c#\\supermarket-mvp3\\supermarket-mvp3\\views\\controlventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\views\\controlventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\supermarket-mvp3\\views\\iprovidersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\views\\iprovidersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\supermarket-mvp3\\views\\icategoriesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\views\\icategoriesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\supermarket-mvp3\\views\\categoriesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\views\\categoriesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\supermarket-mvp3\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|c:\\users\\nicol\\desktop\\c#\\supermarket-mvp3\\supermarket-mvp3\\views\\iproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\supermarket-mvp3\\views\\iproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49084424-2F08-4B77-AF28-A760E5D0BABB}|Supermarket-mvp3\\Supermarket-mvp3.csproj|solutionrelative:supermarket-mvp3\\views\\iproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +82,73 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ControlVentas.cs",
+              "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\ControlVentas.cs",
+              "ToolTip": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ControlVentas.cs",
+              "RelativeToolTip": "Supermarket-mvp3\\Views\\ControlVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:21:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProvidersView.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ProvidersView.cs",
+              "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\ProvidersView.cs",
+              "ToolTip": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ProvidersView.cs",
+              "RelativeToolTip": "Supermarket-mvp3\\Views\\ProvidersView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:15:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProvidersView.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\IProvidersView.cs",
+              "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\IProvidersView.cs",
+              "ToolTip": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\IProvidersView.cs",
+              "RelativeToolTip": "Supermarket-mvp3\\Views\\IProvidersView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:15:07.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoriesView.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ICategoriesView.cs",
+              "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\ICategoriesView.cs",
+              "ToolTip": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ICategoriesView.cs",
+              "RelativeToolTip": "Supermarket-mvp3\\Views\\ICategoriesView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:12:37.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesView.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\CategoriesView.cs",
+              "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\CategoriesView.cs",
+              "ToolTip": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\CategoriesView.cs",
+              "RelativeToolTip": "Supermarket-mvp3\\Views\\CategoriesView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:11:56.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Presenters\\ProductPresenter.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Presenters\\ProductPresenter.cs",
@@ -70,12 +156,11 @@
               "RelativeToolTip": "Supermarket-mvp3\\Presenters\\ProductPresenter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T04:02:42.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T04:02:42.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IProductView.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\IProductView.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\IProductView.cs",
@@ -83,12 +168,11 @@
               "RelativeToolTip": "Supermarket-mvp3\\Views\\IProductView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T03:48:47.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T03:48:47.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProductView.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ProductView.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\ProductView.cs",
@@ -100,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ProductView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\ProductView.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\ProductView.cs",
@@ -111,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Models\\ProductModel.cs",
@@ -123,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Properties\\Resources.Designer.cs",
@@ -135,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Supermarket-mvp3",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Supermarket-mvp3.csproj",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Supermarket-mvp3.csproj",
@@ -146,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ModelDataValidation.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Presenters\\Common\\ModelDataValidation.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Presenters\\Common\\ModelDataValidation.cs",
@@ -158,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PayModePresenter.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Presenters\\PayModePresenter.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Presenters\\PayModePresenter.cs",
@@ -170,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "PayModeView.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Views\\PayModeView.cs",
@@ -182,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nicol\\Desktop\\C#\\Supermarket-mvp3\\Supermarket-mvp3\\Program.cs",
               "RelativeDocumentMoniker": "Supermarket-mvp3\\Program.cs",
